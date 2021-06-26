@@ -14,7 +14,7 @@ The purpose of the analysis is to assist Louise understand how different campaig
 ### Anaylysis of Outcomes Based on Goals
 
 
-![goals](Outcomes_vs_Goals.png)
+![goals](Outcomes%20vs%20Goals.png)
 ![date](Theater_Outcomes_vs_Launch.png)
 
 
