@@ -25,7 +25,7 @@ The month that launched the most successful Kickstarter Theater campaigns was Ma
 Based on the outcome percentages, play campaigns with a goal that is equal or less than $5,000 has a greater chance of being successfully funded. 
 
 - What are some limitations of this dataset?
-A limitation that may have occurred is that the parent category, “theater,” which consists of musicals, plays, and spaces, was used to review the campaign outcomes based by launch date, while comparing solely the subcategory, “plays,” for the chart, Outcomes based on Goals. Additionally, a limitation could be that the plays were not filtered to a specific country, in which may skew and/or conflate the data that is necessary to help guide the success of Louise's play. 
+A limitation that may have occurred is that the parent category, “theater,” which consists of musicals, plays, and spaces, was used to review the campaign outcomes based by launch date, instead of filtering to the subcategory, "plays."  Additionally, a limitation could be that the plays were not filtered to a specific country, in which may skew and/or conflate the data that is necessary to help guide the success of Louise's campaign. 
 
 - What are some other possible tables and/or graphs that we could create?
-A possible chart to create is to showcase “play outcomes based on launch date,” compared to "theater outcomes by launch date." 
+A possible pivot table and chart to create is to showcase “play outcomes based on launch date,” compared to "theater outcomes by launch date." 
