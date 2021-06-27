@@ -11,7 +11,7 @@ In order to determine how various campaigns managed in relation to their launch 
 
 I encountered a challenge while creating my "Theater Outcomes Based by Launch Date" chart as the "Row Labels" was showing the years instead of the months. It took several attempts, but I was able to group the "Row Labels" to instead show the months of the year.
 
-### Outcomes Based on Launch Chart
+### Theater Outcomes Based By Launch Date Chart
 ![date](Theater%20Outcomes%20vs%20Launch.png)
 
 ### Outcomes Based on Goals Chart
@@ -22,7 +22,7 @@ I encountered a challenge while creating my "Theater Outcomes Based by Launch Da
 The month that launched the most successful Kickstarter Theater campaigns was May. The month of December showed that it had the least number of launched campaigns (n=37) while also having roughly the same number of failed campaigns (n=35).
 
 - What can you conclude about the Outcomes based on Goals?
-- Based on the outcome percentages, play campaigns with a goal that is equal or less than $5,000 has a greater chance of being successfully funded. 
+Based on the outcome percentages, play campaigns with a goal that is equal or less than $5,000 has a greater chance of being successfully funded. 
 
 - What are some limitations of this dataset?
 A limitation that may have occurred is that the parent category, “theater,” which consists of musicals, plays, and spaces, was used to review the campaign outcomes based by launch date, while comparing solely the subcategory, “plays,” for the chart, Outcomes based on Goals. Additionally, a limitation could be that the plays were not filtered to a specific country, in which may skew and/or conflate the data that is necessary to help guide the success of Louise's play. 
